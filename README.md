@@ -6,6 +6,21 @@
 
 ---
 
+🛠 This helper script is intended for Laravel developers working in local or dev environments.
+It allows easy switching between queue:work and queue:listen without keeping a terminal open or configuring Supervisor.
+
+🚫 It does not restart automatically after a reboot or failure.
+✅ Ideal for manual, on-demand queue management during development.
+
+🛠 Этот скрипт предназначен для Laravel-разработчиков и использования в среде разработки.
+Позволяет удобно запускать queue:work или queue:listen без необходимости держать терминал открытым или настраивать Supervisor.
+
+🚫 Скрипт не перезапускается автоматически после перезагрузки.
+✅ Идеален для ручного запуска очередей в процессе разработки.
+
+
+---
+
 ## 🌍 Multi-language README  
 🇬🇧 [English](#english) | 🇷🇺 [Русский](#русский)
 
