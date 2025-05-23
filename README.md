@@ -24,9 +24,10 @@
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-name/laravel-queue-helper.git
-cd laravel-queue-helper
+curl -o queue-helper.sh https://raw.githubusercontent.com/bau-studio/laravel-queue-helper/main/queue-helper.sh
 chmod +x queue-helper.sh
+./queue-helper.sh
+
 ```
 
 ### 🚀 Usage
@@ -68,9 +69,9 @@ You will be prompted:
 ### 📦 Установка
 
 ```bash
-git clone https://github.com/your-name/laravel-queue-helper.git
-cd laravel-queue-helper
+curl -o queue-helper.sh https://raw.githubusercontent.com/bau-studio/laravel-queue-helper/main/queue-helper.sh
 chmod +x queue-helper.sh
+./queue-helper.sh
 ```
 
 ### 🚀 Использование
