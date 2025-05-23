@@ -101,8 +101,11 @@ chmod +x queue-helper.sh
 
 ## ❤️ Contributing
 
-Pull requests welcome! Found a bug? Want to improve UX? Open an issue or fork away.
+Pull requests welcome! Found a bug? Want to improve UX? Open an issue or fork away.  
+Пулл-реквесты приветствуются! Нашли баг? Есть идея? Форкайте или создавайте issue.
 
 ## 📄 License
 
-MIT — do anything, just give credit.
+🆓 This project is released into the **public domain** via [The Unlicense](https://unlicense.org/).  
+Вы можете делать с этим проектом **что угодно**, без ограничений, без указания автора.
+
