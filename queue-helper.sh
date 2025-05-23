@@ -69,9 +69,15 @@ echo "------------------------"
 echo "$(t mode_prompt)"
 echo "$(t mode_1)"
 echo "$(t mode_2)"
+echo "3 - Change language / Сменить язык"
 read -p "> " mode
 
 case "$mode" in
+  3)
+    echo "Resetting language..."
+    rm -f "$CONFIG_FILE"
+    exec "$0"
+    ;;
   1)
     RUN_CMD="php artisan queue:work --daemon"
     LOG_FILE="storage/logs/queue.log"
